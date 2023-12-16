@@ -1,0 +1,6 @@
+2023-12-16 20:30:54 [AWT-EventQueue-0] INFO  EmailAppGUI - Выбран файл: C:\Users\egoro\КР\email\src\emails.txt
+2023-12-16 20:31:15 [AWT-EventQueue-0] INFO  EmailAppGUI - Выбран файл: C:\Users\egoro\КР\email\src\message.txt
+2023-12-16 20:31:18 [AWT-EventQueue-0] INFO  EmailAppGUI - Начало отправки писем
+2023-12-16 20:31:20 [AWT-EventQueue-0] INFO  EmailSender - Письмо успешно отправлено на: c6948871@gmail.com
+2023-12-16 20:31:21 [AWT-EventQueue-0] INFO  EmailSender - Письмо успешно отправлено на: groupikb22@gmail.com
+2023-12-16 20:31:21 [AWT-EventQueue-0] INFO  EmailAppGUI - Письма отправлены

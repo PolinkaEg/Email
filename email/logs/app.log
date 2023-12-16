@@ -1,0 +1,14 @@
+2023-12-16 18:29:35 [main] INFO  EmailSender - Письмо успешно отправлено на: alina836730@gmail.com
+2023-12-16 18:29:56 [main] INFO  EmailSender - Письмо успешно отправлено на: itiseasy202@gmail.com
+2023-12-16 18:34:24 [AWT-EventQueue-0] INFO  EmailAppGUI - Выбран файл: C:\Users\Alina\Documents\1AAAA\emails.txt
+2023-12-16 18:34:28 [AWT-EventQueue-0] INFO  EmailAppGUI - Выбран файл: C:\Users\Alina\Documents\1AAAA\message.txt
+2023-12-16 18:34:30 [AWT-EventQueue-0] INFO  EmailAppGUI - Начало отправки писем
+2023-12-16 18:34:51 [AWT-EventQueue-0] INFO  EmailSender - Письмо успешно отправлено на: alina836730@gmail.com
+2023-12-16 18:35:11 [AWT-EventQueue-0] INFO  EmailSender - Письмо успешно отправлено на: itiseasy202@gmail.com
+2023-12-16 18:35:11 [AWT-EventQueue-0] INFO  EmailAppGUI - Письма отправлены
+2023-12-16 21:49:48 [AWT-EventQueue-0] INFO  EmailAppGUI - Выбран файл: C:\Users\Alina\Documents\1AAAA\emails.txt
+2023-12-16 21:49:52 [AWT-EventQueue-0] INFO  EmailAppGUI - Выбран файл: C:\Users\Alina\Documents\1AAAA\message.txt
+2023-12-16 21:49:53 [AWT-EventQueue-0] INFO  EmailAppGUI - Начало отправки писем
+2023-12-16 21:50:14 [AWT-EventQueue-0] INFO  EmailSender - Письмо успешно отправлено на: alina836730@gmail.com
+2023-12-16 21:50:35 [AWT-EventQueue-0] INFO  EmailSender - Письмо успешно отправлено на: itiseasy202@gmail.com
+2023-12-16 21:50:35 [AWT-EventQueue-0] INFO  EmailAppGUI - Письма отправлены

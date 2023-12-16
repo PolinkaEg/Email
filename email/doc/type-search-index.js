@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.emailapp","l":"EmailAppGUI"},{"p":"com.emailapp","l":"EmailReader"},{"p":"com.emailapp","l":"EmailSender"}];updateSearchResults();
